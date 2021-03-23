@@ -1,6 +1,7 @@
 # Regression_Python
 I wrote this code while taking a summer course in Python at Chalmers university.
 
+The program takes a set of data and with polynomial regression, it can find a polynom of an arbitrary degree n. The task of the polynomial regression is to find the list of parameters a for a given polynomial degree n. 
 
 ## How to run it
 
