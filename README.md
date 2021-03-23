@@ -9,11 +9,17 @@ Install the [NumPy](https://numpy.org/) library:
 $ pip3 install numpy
 ```
 
+Install the [matplotlib](https://matplotlib.org/) library: 
+```bash
+$ pip3 install matplotlib
+```
+
+
 ## How to run it
 
 To compute a polynomial of degree four: 
 ```bash
-python3 numpy_regression.py dataset3.txt 4
+$ python3 numpy_regression.py dataset3.txt 4
 ```
 
 To compute a polynomial of degree three: 
