@@ -2,7 +2,7 @@
 I wrote this code while taking a summer course in Python at Chalmers university.
 
 
-## How to run it: 
+## How to run it
 
 To compute a polynomial of degree four: 
 ```bash
