@@ -6,11 +6,11 @@ I wrote this code while taking a summer course at Chalmers university.
 
 To compute a polynomial of degree four: 
 ```bash
-python3 numpy_regression.py chirps-modified.txt 4
+python3 numpy_regression.py dataset3.txt 4
 ```
 
 To compute a polynomial of degree two: 
 ```bash
-python3 numpy_regression.py chirps-modified.txt 2
+python3 numpy_regression.py dataset1.txt 2
 ```
 
