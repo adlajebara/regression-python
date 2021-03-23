@@ -2,12 +2,14 @@
 I wrote this code while taking a summer course at Chalmers university.
 
 
-How to run it:
+How to run it: 
+
+To compute a polynomial of degree four: 
 ```bash
 python3 numpy_regression.py chirps-modified.txt 4
 ```
-or
 
+To compute a polynomial of degree two: 
 ```bash
 python3 numpy_regression.py chirps-modified.txt 2
 ```
