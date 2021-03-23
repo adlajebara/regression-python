@@ -10,6 +10,11 @@ To compute a polynomial of degree four:
 python3 numpy_regression.py dataset3.txt 4
 ```
 
+To compute a polynomial of degree three: 
+```bash
+python3 numpy_regression.py dataset2.txt 3
+```
+
 To compute a polynomial of degree two: 
 ```bash
 python3 numpy_regression.py dataset1.txt 2
