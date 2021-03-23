@@ -1,5 +1,5 @@
 # Regression_Python
-I wrote this code while taking a summer course at Chalmers university.
+I wrote this code while taking a summer course in Python at Chalmers university.
 
 
 ## How to run it: 
